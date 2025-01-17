@@ -108,9 +108,10 @@
   </table>
 </div>
 
-
+<p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hari-krishnan-k&show_icons=true&locale=en&layout=compact" alt="hari-krishnan-k" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hari-krishnan-k&show_icons=true&locale=en" alt="hari-krishnan-k" /></p>
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hari-krishnan-k&" alt="hari-krishnan-k" /></p>
