@@ -146,10 +146,17 @@
 
 <h3 align="left">GitHub Statistics and Streak Overview</h3>
 
-<div style="display: flex; justify-content: center; gap: 50;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hari-krishnan-k&" alt="hari-krishnan-k" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hari-krishnan-k&show_icons=true&locale=en" alt="hari-krishnan-k" />
-</div>
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hari-krishnan-k&" alt="hari-krishnan-k" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=hari-krishnan-k&show_icons=true&locale=en" alt="hari-krishnan-k" />
+    </td>
+  </tr>
+</table>
+
 
 
 
