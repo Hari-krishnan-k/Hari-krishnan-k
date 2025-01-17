@@ -1,4 +1,4 @@
-![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
+<img src="https://ik.imagekit.io/dqizvwbln/Black%20and%20White%20Creative%20Profile%20Information%20LinkedIn%20Article%20Cover%20Image.gif?updatedAt=1737111766731" alt="Creative GIF" height="300" width="1700" />
 
 <h1 align="center">Hi 👋, I'm Harikrishnan K</h1>
 <h3 align="center">A passionate developer from India, dedicated to creating impactful digital solutions.</h3>
@@ -51,11 +51,11 @@
           <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="70" height="70" style="margin: 20px;" />
         </a>
       </td>
-      <td>
+<!--       <td>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="70" height="70" style="margin: 20px;" />
         </a>
-      </td>
+      </td> -->
       <td>
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="70" height="70" style="margin: 20px;" />
@@ -78,11 +78,11 @@
           <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="70" height="70" style="margin: 20px;" />
         </a>
       </td>
-      <td>
+<!--       <td>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70" style="margin: 20px;" />
         </a>
-      </td>
+      </td> -->
       <td>
         <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="70" height="70" style="margin: 20px;" />
@@ -98,20 +98,84 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70" style="margin: 20px;" />
         </a>
       </td>
-      <td>
+<!--       <td>
         <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
           <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="adobe xd" width="70" height="70" style="margin: 20px;" />
         </a>
-      </td>
+      </td> -->
     </tr>
  
   </table>
 </div>
 
-<p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hari-krishnan-k&show_icons=true&locale=en&layout=compact" alt="hari-krishnan-k" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hari-krishnan-k&show_icons=true&locale=en" alt="hari-krishnan-k" /></p>
-</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hari-krishnan-k&" alt="hari-krishnan-k" /></p>
+<h3 align="left">IDE & Tools:</h3>
+<table class="min-w-full table-auto border-collapse">
+  <tbody class="bg-[#D6EEEE]">
+    <tr class="flex justify-around">
+      <td class="p-4 flex justify-center">
+        <img class="w-16 h-16" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>
+      </td>
+      <td class="p-4 flex justify-center">
+        <img class="w-16 h-16" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm"/>
+      </td>
+      <td class="p-4 flex justify-center">
+        <img class="w-16 h-16" src="https://img.icons8.com/color/50/000000/git.png" alt="Git"/>
+      </td>
+      <td class="p-4 flex justify-center">
+        <img class="w-16 h-16" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+      </td>
+      <td class="p-4 flex justify-center">
+        <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="adobe xd" width="50" height="50" ;" />  </a>
+      </td>
+      <td class="p-4 flex justify-center">
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+          <img class="w-16 h-16" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" />
+        </a>
+      </td>
+            <td class="p-4 flex justify-center">
+        <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer">
+          <img class="w-16 h-16" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="50" height="50" alt="NetBeans" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 align="left">GitHub Statistics and Streak Overview</h3>
+
+<div style="display: flex; justify-content: center; gap: 50;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hari-krishnan-k&" alt="hari-krishnan-k" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hari-krishnan-k&show_icons=true&locale=en" alt="hari-krishnan-k" />
+</div>
+
+
+
+
+<h3 align="left">My Coding Profiles</h3>
+
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td>
+      <!-- First Column: GitHub ReadMe Stats & SkillRack Profile -->
+      <p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hari-krishnan-k&show_icons=true&locale=en&layout=compact" alt="hari-krishnan-k" />
+      </p>
+      <p>
+        <a href="http://www.skillrack.com/profile/403970/6dfb481ae0e117259be2491504038176ad874700" target="_blank">
+          <img src="https://img.shields.io/badge/SkillRack-Profile-blue?style=for-the-badge&logo=appveyor&logoColor=white" alt="SkillRack Profile" />
+        </a>
+      </p>
+    </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/user7971xM" alt="LeetCode Profile - HARIKRISHNAN K" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+
