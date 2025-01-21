@@ -177,7 +177,7 @@
       </p>
     </td>
     <td>
-      <img src="https://leetcard.jacoblin.cool/Harikrish_K/" alt="LeetCode Profile - HARIKRISHNAN K" />
+ <img src="https://leetcard.jacoblin.cool/Harikrish_K" alt="LeetCode Profile - HARIKRISHNAN K" />
     </td>
   </tr>
 </table>
