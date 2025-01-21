@@ -22,9 +22,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harikris hnan-k-50339a262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harikris hnan-k-50339a262" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/Harikrish_K/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/user7971xm/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/kharikrisafz2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/kharikrisafz2/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harikrishnan-k-50339a262/" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/u/Harikrish_K/" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" />
+</a>
+<a href="https://www.geeksforgeeks.org/user/kharikrisafz2/" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks Profile" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left" style="color: #004080;">Languages and Tools:</h3>
